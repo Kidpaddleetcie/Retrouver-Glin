@@ -4,10 +4,6 @@
   -ms-scroll-snap-type: x mandatory;
       scroll-snap-type: x mandatory;
   border: 1px solid gray;
-}
-
-#videos.proximity {
-  -ms-scroll-snap-type: x proximity;
-      scroll-snap-type: x proximity;
+  scroll-padding: 0 50%;
 }
 /*# sourceMappingURL=style.css.map */
