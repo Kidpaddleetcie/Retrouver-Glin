@@ -3,7 +3,6 @@
       flex-basis: 50%;
   -ms-scroll-snap-type: x mandatory;
       scroll-snap-type: x mandatory;
-  border: 1px solid gray;
   scroll-padding: 0 50%;
   scroll-snap-align: start;
 }

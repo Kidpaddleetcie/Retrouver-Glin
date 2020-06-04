@@ -1,7 +1,6 @@
 #videos {
     flex-basis: 50%;
     scroll-snap-type: x mandatory;
-    border: 1px solid gray;
     scroll-padding: 0 50%;
     scroll-snap-align: start;
 }
