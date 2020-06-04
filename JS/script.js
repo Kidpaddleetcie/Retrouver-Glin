@@ -30,17 +30,17 @@ const weblist = [{
     l: "https://soundcloud.com/kidpaddleetcie-glin",
     d: 'Je m\y amuse à mettre en favoris les sons que j\'aime bien... parce que je n\'ai plus d\'espace mémoire de disponible sur le site ! '
 }, {
-    p: "",
+    p: "https://image.flaticon.com/icons/png/512/121/121544.png",
     t: "Le DeviantArt",
     l: "http://kidpaddleetcie.deviantart.com/gallery/",
     d: 'Malgré le nouveau design, on peut encore retrouvé en bonne qualité les ressources que je propose...JE SUIS LE MAÎTRE DES PNGs !!!'
 }, {
-    p: "",
+    p: "https://lh3.googleusercontent.com/proxy/jA01Xl8PwNuXvpelI7PHJ2_79ATrGlQrxKAH134up16vDhYXWrwbcRStQ1wTQBVJap6ErMvpF0TQEjSjZp8LUdc0MfJl2-xWl9aopd2Rko2sw9fhLRw",
     t: "Le Pinterest",
     l: "https://fr.pinterest.com/Kidpaddleetcie/",
     d: 'Quand je fais une grosse vidéo qui a besoin de PNGs et d\'image sur un thème précis, j\'y créé un tableau regroupant ces fameuses images et vidéos ! '
 }, {
-    p: "",
+    p: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png",
     t: "Le Github",
     l: "https://github.com/Kidpaddleetcie",
     d: 'Quand je veux synthétiser une technique ou faire une présentation d\'une de mes compétences en coding, je répertorie mes travaux sur ce site web pour créer des sites web ! '
