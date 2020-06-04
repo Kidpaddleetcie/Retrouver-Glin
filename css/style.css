@@ -5,5 +5,10 @@
       scroll-snap-type: x mandatory;
   border: 1px solid gray;
   scroll-padding: 0 50%;
+  scroll-snap-align: start;
+}
+
+.scrollable-element {
+  scrollbar-color: #f8f8f8 white;
 }
 /*# sourceMappingURL=style.css.map */
