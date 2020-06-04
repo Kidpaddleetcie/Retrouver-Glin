@@ -1,6 +1,8 @@
 #videos {
-    scroll-snap-type: y mandatory;
+    flex-basis: 50%;
+    scroll-snap-type: x mandatory;
+    border: 1px solid gray;
     &.proximity {
-        scroll-snap-type: y proximity;
+        scroll-snap-type: x proximity;
     }
 }

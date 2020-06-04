@@ -1,10 +1,13 @@
 #videos {
-  -ms-scroll-snap-type: y mandatory;
-      scroll-snap-type: y mandatory;
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+  -ms-scroll-snap-type: x mandatory;
+      scroll-snap-type: x mandatory;
+  border: 1px solid gray;
 }
 
 #videos.proximity {
-  -ms-scroll-snap-type: y proximity;
-      scroll-snap-type: y proximity;
+  -ms-scroll-snap-type: x proximity;
+      scroll-snap-type: x proximity;
 }
 /*# sourceMappingURL=style.css.map */
