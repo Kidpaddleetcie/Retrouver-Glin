@@ -1,4 +1,3 @@
-@charset "UTF-8";
 #videos {
   -ms-flex-preferred-size: 50%;
       flex-basis: 50%;
@@ -7,17 +6,5 @@
   border: 1px solid gray;
   scroll-padding: 0 50%;
   scroll-snap-align: start;
-}
-
-#videos .scrollable-element {
-  scrollbar-color: #006eff white;
-}
-
-µ .scrollbar-track {
-  background-color: whitesmoke;
-}
-
-.scrollbar-thumb {
-  background-color: #006eff;
 }
 /*# sourceMappingURL=style.css.map */
