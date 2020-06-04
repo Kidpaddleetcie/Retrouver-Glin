@@ -4,8 +4,15 @@
     border: 1px solid gray;
     scroll-padding: 0 50%;
     scroll-snap-align: start;
+    .scrollable-element {
+        scrollbar-color: rgb(0, 110, 255) white;
+    }
 }
 
-.scrollable-element {
-    scrollbar-color: rgb(0, 110, 255) white;
+µ .scrollbar-track {
+    background-color: whitesmoke;
+}
+
+.scrollbar-thumb {
+    background-color: rgb(0, 110, 255);
 }
