@@ -1,0 +1,10 @@
+#videos {
+  -ms-scroll-snap-type: y mandatory;
+      scroll-snap-type: y mandatory;
+}
+
+#videos.proximity {
+  -ms-scroll-snap-type: y proximity;
+      scroll-snap-type: y proximity;
+}
+/*# sourceMappingURL=style.css.map */
