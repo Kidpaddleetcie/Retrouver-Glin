@@ -1,15 +1,1 @@
-#videos {
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-}
-
-#videos* {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 80px;
-          flex: 1 1 80px;
-}
-/*# sourceMappingURL=style.css.map */
+/* No CSS *//*# sourceMappingURL=style.css.map */
